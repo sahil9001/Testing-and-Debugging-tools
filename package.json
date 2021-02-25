@@ -1,0 +1,19 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "This repository is an example repository for showing testing tools in JavaScript for Software Engineering Term Paper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil9001/JS-Unit-testing.git"
+  },
+  "author": "Sahil Silare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahil9001/JS-Unit-testing/issues"
+  },
+  "homepage": "https://github.com/sahil9001/JS-Unit-testing#readme"
+}
