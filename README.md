@@ -1,4 +1,4 @@
-# JS-Unit-testing (Roll No : 19115071)
+# Software testing and debugging tools (Roll No : 19115071)
 
 This repository is an example repository for showing testing tools in JavaScript for Software Engineering Term Paper by roll number 19115071.
 My term paper title for the subject software engineering is “**Debugging and testing tools**” . I chose this topic because I found it quite interesting to make code error free and how the testing functionality works. This paper also covers the types of tests and debugging tools used in the modern workspace.
